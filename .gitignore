@@ -1,0 +1,29 @@
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binaries (uncomment below if you don't want .exe tracked)
+# *.exe
+
+# Build directories
+build/
+out/
+Debug/
+Release/
+
+# IDE & Editor files
+.vscode/
+.vs/
+*.suo
+*.user
+*.sdf
+*.opensdf
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
